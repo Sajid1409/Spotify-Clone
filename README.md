@@ -1,3 +1,11 @@
+#Screenshots of the spotify clone
+![Screenshot (411)](https://github.com/Sajid1409/Spotify-Clone/assets/139539184/ca0a5295-3ad2-473c-b055-7d1088f6fa30)
+
+![Screenshot (412)](https://github.com/Sajid1409/Spotify-Clone/assets/139539184/ad5a4285-aa85-46bb-8c11-4fa92b36885f)
+
+![Screenshot (413)](https://github.com/Sajid1409/Spotify-Clone/assets/139539184/90c3aa76-1b40-4982-b1b1-7fa511a6f38a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
